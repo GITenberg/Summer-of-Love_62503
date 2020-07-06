@@ -1,0 +1,27 @@
+_repo: Summer-of-Love_62503
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kilmer, Joyce
+    alias: Kilmer, Alfred Joyce
+    birthdate: 1886
+    deathdate: 1918
+    gutenberg_agent_id: '149'
+    url: http://www.gutenberg.org/2009/agents/149
+    wikipedia: https://en.wikipedia.org/wiki/Joyce_Kilmer
+description: ''
+gutenberg_issued: '2020-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62503'
+  lccn: unk85024262
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American poetry -- 20th century'
+- !lcc 'PS'
+- GITenberg
+title: Summer of Love
+url: http://www.gutenberg.org/ebooks/62503
